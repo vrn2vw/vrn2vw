@@ -1,6 +1,6 @@
 - 👋 Hi, I’m V (@vrn2vw)
-- 👀 I’m interested in building new product features that make life simpler, sports, and anything related to Virginia
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in building new things that make life simpler, sports, and anything related to Virginia
+- 🌱 I’m currently building my own basic website
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v-nair/)
 
 <!---
